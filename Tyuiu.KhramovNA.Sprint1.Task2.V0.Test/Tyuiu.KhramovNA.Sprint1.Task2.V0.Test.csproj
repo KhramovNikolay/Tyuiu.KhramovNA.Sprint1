@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{004472E3-0AF4-4A7F-AEE2-01C2DD365DB3}</ProjectGuid>
+    <ProjectGuid>{E9BDC418-E2B4-4610-BB6D-56787A9AE8C2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KhramovNA.Sprint1.Task0.V0.Test</RootNamespace>
-    <AssemblyName>Tyuiu.KhramovNA.Sprint1.Task0.V0.Test</AssemblyName>
+    <RootNamespace>Tyuiu.KhramovNA.Sprint1.Task2.V0.Test</RootNamespace>
+    <AssemblyName>Tyuiu.KhramovNA.Sprint1.Task2.V0.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -49,17 +49,11 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataServiceTest.cs" />
+    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KhramovNA.Sprint1.Task0.V0.Lib\Tyuiu.KhramovNA.Sprint1.Task0.V0.Lib.csproj">
-      <Project>{b17c946c-c673-47c8-b4cc-a4e22e525785}</Project>
-      <Name>Tyuiu.KhramovNA.Sprint1.Task0.V0.Lib</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

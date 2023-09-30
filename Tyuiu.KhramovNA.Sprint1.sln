@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{FA0C68B9-D7F6-4742-B0E1-9828573DEAFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhramovNA.Sprint1.Task0.V0", "Tyuiu.KhramovNA.Sprint1.Task0.V0\Tyuiu.KhramovNA.Sprint1.Task0.V0.csproj", "{51AB7B13-C4A0-4A00-BF0C-186F07D23C7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhramovNA.Sprint1.Task0.V20", "Tyuiu.KhramovNA.Sprint1.Task0.V0\Tyuiu.KhramovNA.Sprint1.Task0.V20.csproj", "{51AB7B13-C4A0-4A00-BF0C-186F07D23C7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhramovNA.Sprint1.Task0.V0.Lib", "Tyuiu.KhramovNA.Sprint1.Task0.V0.Lib\Tyuiu.KhramovNA.Sprint1.Task0.V0.Lib.csproj", "{B17C946C-C673-47C8-B4CC-A4E22E525785}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhramovNA.Sprint1.Task0.V20.Lib", "Tyuiu.KhramovNA.Sprint1.Task0.V0.Lib\Tyuiu.KhramovNA.Sprint1.Task0.V20.Lib.csproj", "{B17C946C-C673-47C8-B4CC-A4E22E525785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhramovNA.Sprint1.Task0.V0.Test", "Tyuiu.KhramovNA.Sprint1.Task0.V0.Test\Tyuiu.KhramovNA.Sprint1.Task0.V0.Test.csproj", "{004472E3-0AF4-4A7F-AEE2-01C2DD365DB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhramovNA.Sprint1.Task0.V20.Test", "Tyuiu.KhramovNA.Sprint1.Task0.V0.Test\Tyuiu.KhramovNA.Sprint1.Task0.V20.Test.csproj", "{004472E3-0AF4-4A7F-AEE2-01C2DD365DB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
