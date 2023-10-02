@@ -9,8 +9,12 @@ namespace Tyuiu.KhramovNA.Sprint1.Task6.V16.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidString()
         {
+            string text = "1 ! 2 3 ?";
+            DataService ds = new DataService();
+            bool res = ds.CheckSpecSymbols(text);
+
         }
     }
 }
